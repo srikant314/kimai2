@@ -10,6 +10,10 @@ The docker compose file below will handle that but if you didn't save those file
 
 ## Quick start
 
+### Samples and templates
+
+The [samples](samples) folder contains a set of ready meal set up if your in a hurry.
+
 ### Evaluate
 
 Run a throw away instance of kimai for evaluation or testing.
